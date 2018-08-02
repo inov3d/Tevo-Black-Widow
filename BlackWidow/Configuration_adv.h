@@ -494,7 +494,7 @@
 #define LCD_INFO_MENU
 
 // Leave out seldom-used LCD menu items to recover some Program Memory
-#define SLIM_LCD_MENUS
+//#define SLIM_LCD_MENUS
 
 // Scroll a longer status message into view
 //#define STATUS_MESSAGE_SCROLLING
